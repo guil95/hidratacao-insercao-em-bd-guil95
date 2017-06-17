@@ -4,5 +4,5 @@
 - Guilherme Henrique Rodrigues
 ## Curso 
 - Pós webDev Alfa Umuarama
-## Configurações necessarias
+## Configurações necessárias
 - Alterar o nome do arquivo config2.json para config.json, e alterar as informações nele contidas, com as configurções de seu banco
